@@ -1,0 +1,28 @@
+name: Jack Richardson
+favicon: null
+layout_spectrum: 0.411928630201146
+typography_spectrum: 0.11556382989510894
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.566551721887663
+  lightness: 0.8125256157945842
+  saturation: 0.8059731747489423
+  rhythmicContrast: 0.8489022571593523
+purpose: []
